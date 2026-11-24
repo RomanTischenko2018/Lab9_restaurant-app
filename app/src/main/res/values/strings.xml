@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ресторан</string>
+    <string name="menu_title">Меню</string>
+    <string name="search_hint">Поиск блюда</string>
+    <string name="category_all">Все</string>
+    <string name="refresh">Обновить меню с сервера</string>
+    <string name="open_cart">Корзина</string>
+    <string name="open_orders">Мои заказы</string>
+    <string name="add_dish">Добавить блюдо</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="empty_menu">Блюда не найдены</string>
+    <string name="error_network">Не удалось загрузить меню. Проверьте подключение к интернету.</string>
+    <string name="price_format">%1$d ₽</string>
+
+    <string name="cart_title">Корзина</string>
+    <string name="cart_empty">Корзина пуста.\nДобавьте блюда из меню.</string>
+    <string name="cart_total">Итого: %1$d ₽</string>
+    <string name="table_number">Номер столика</string>
+    <string name="table_invalid">Введите номер столика (число больше 0)</string>
+    <string name="place_order">Оформить заказ</string>
+    <string name="increase">Добавить порцию</string>
+    <string name="decrease">Убрать порцию</string>
+
+    <string name="orders_title">Мои заказы</string>
+    <string name="orders_empty">Заказов пока нет</string>
+    <string name="order_header">Заказ №%1$d · столик %2$d</string>
+    <string name="order_item_format">%1$s × %2$d — %3$d ₽</string>
+    <string name="delete_order">Удалить заказ</string>
+
+    <string name="new_dish">Новое блюдо</string>
+    <string name="edit_dish">Редактирование блюда</string>
+    <string name="field_name">Название</string>
+    <string name="field_description">Описание</string>
+    <string name="field_price">Цена, ₽</string>
+    <string name="name_required">Введите название блюда</string>
+    <string name="price_invalid">Введите цену (целое число больше 0)</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить блюдо</string>
+    <string name="back">Назад</string>
+</resources>
